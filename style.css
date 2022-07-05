@@ -1,0 +1,45 @@
+body {
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.home-section {
+    background-image: url(images/flood.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1349px;
+    height: 90vh;
+}
+
+.home {
+    text-align: center;
+    color: #fff;
+    padding: 40px;
+
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: 700;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+p {
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.donate-btn {
+    padding: 10px 30px;
+    font-size: 20px;
+    font-weight: 700;
+    background-color: tomato;
+    border-radius: 10px;
+    border-style: none;
+    margin-top: 20px;
+    color: #fff;
+}
