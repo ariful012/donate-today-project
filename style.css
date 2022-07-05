@@ -80,11 +80,47 @@ p {
 }
 
 #btn {
-    margin-left: 46%;
+    margin-left: 45%;
 }
 
 .plan {
     text-align: center;
+    margin-top: 10%;
+    margin-bottom: 5%;
 }
 
-.food {}
+.family {
+    display: flex;
+    width: 1349px;
+}
+
+.food-shelter-education {
+    width: 500px;
+    height: 300px;
+    align-items: center;
+    background-color: aliceblue;
+    margin: 2%;
+    padding: 2%;
+}
+
+.food-shelter-education p {
+    text-align: justify;
+    margin: 5%;
+}
+
+.food-shelter-education h3 {
+    font-size: 25px;
+    margin: 5%;
+}
+
+.food-color {
+    background-color: aliceblue;
+}
+
+.shelter-color {
+    background-color: rgb(244, 230, 227);
+}
+
+.edu-color {
+    background-color: rgb(248, 248, 191);
+}
