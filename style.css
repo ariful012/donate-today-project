@@ -152,3 +152,20 @@ p {
 .hungry img:hover {
     margin-top: 0px;
 }
+
+.emergency h1 {
+    text-align: center;
+}
+
+.emergency h2 {
+    text-align: center;
+    font-size: 30px;
+}
+
+.emergency p {
+    text-align: center;
+}
+
+.contribute {
+    margin-left: 40%;
+}
