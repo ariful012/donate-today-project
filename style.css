@@ -216,3 +216,31 @@ p {
     border-radius: 5px;
     background: tomato;
 }
+
+.footer {
+    width: auto;
+    height: 180px;
+    background-color: #000;
+    margin-left: 1%;
+}
+
+.footer .last-h2 {
+    text-align: center;
+    margin-top: 7%;
+}
+
+.footer h2 {
+    font-size: 35px;
+    padding: 2%;
+}
+
+.last-h2 {
+    color: tomato;
+    font-weight: 700;
+}
+
+.last-p {
+    color: #fff;
+    text-align: center;
+    margin-top: -2%;
+}
