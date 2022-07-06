@@ -169,3 +169,50 @@ p {
 .contribute {
     margin-left: 40%;
 }
+
+.update {
+    margin-top: 10%;
+}
+
+.update h1 {
+    text-align: center;
+}
+
+.update p {
+    text-align: center;
+}
+
+.box {
+    margin-left: 27%;
+    margin-top: 5%;
+    margin-bottom: 4%;
+}
+
+.email-box {
+    padding: 10px;
+    border-radius: 10px;
+    background: rgb(248, 248, 191);
+    width: 600px;
+    height: 150px;
+}
+
+.email-box input {
+    font-size: 18px;
+    color: rgb(223, 217, 217);
+    padding: 12px 10px;
+    border: none;
+    outline: none;
+    background: rgb(234, 219, 219);
+    border-radius: 5px;
+    margin-top: 8%;
+    margin-left: 20%;
+}
+
+.email-box button {
+    padding: 12px 20px;
+    font-size: 20px;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    background: tomato;
+}
