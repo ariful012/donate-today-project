@@ -124,3 +124,31 @@ p {
 .edu-color {
     background-color: rgb(248, 248, 191);
 }
+
+.flooder {
+    display: flex;
+    padding: 2%;
+}
+
+.donation img {
+    width: 70%;
+    height: 88%;
+    margin-left: 35%;
+    margin-top: 30px;
+    transition: .8ms;
+}
+
+.donation img:hover {
+    margin-top: 0px;
+}
+
+.hungry img {
+    width: 60%;
+    margin-left: 15%;
+    margin-top: 30px;
+    transition: .8ms;
+}
+
+.hungry img:hover {
+    margin-top: 0px;
+}
